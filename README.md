@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EG-Eclipse
 - 👀 I’m interested in Programming (No duh)
 - 🌱 I’m currently learning CSS
-- 📫 Discord: Eclipse < 3#2727
+- 📫 Discord: Gh0st #3863
 
 <!---
 EG-Eclipse/EG-Eclipse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
